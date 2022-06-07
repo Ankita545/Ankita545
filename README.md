@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ankita545
 - 👀 I’m interested in ...Full stack development
 - 🌱 I’m currently learning ...React JS, Angular, Spring
-- 📫 How to reach me...ankita.df@gmail.com
+- 📫 How to reach me... ankita.df@gmail.com
